@@ -1,6 +1,6 @@
 Developer.
 
-Currently studing for my AWS Solutions Architect Associate certification.
+Currently doing something.
 
 Working for [DevicePilot](https://www.devicepilot.com)
 
@@ -13,3 +13,7 @@ Recent talks:
 ### Events
 
 Nothing planned.
+
+### Certifications
+
+![AWS SAA Badge](/assets/img/aws-saa-badges.png)
