@@ -16,4 +16,4 @@ Nothing planned.
 
 ### Certifications
 
-![AWS SAA Badge](/assets/img/aws-saa-badges.png)
+[![AWS SAA Badge](assets/img/aws-saa-badge.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-08&ci=AWS01082835)
