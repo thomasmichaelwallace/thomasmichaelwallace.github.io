@@ -1,6 +1,6 @@
 Developer.
 
-Currently doing something.
+Currently getting involved with [Hacktoberfest](https://hacktoberfest.digitalocean.com).
 
 Working for [DevicePilot](https://www.devicepilot.com)
 
