@@ -1,5 +1,3 @@
-Developer.
+Homepage of a Developer.
 
-Currently studing for my AWS Solutions Architect Associate certification.
-
-Working for [DevicePilot](https://www.devicepilot.com)
+[Check it out](https://www.thomasmichaelwallace.com)
