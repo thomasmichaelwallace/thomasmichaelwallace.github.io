@@ -1,6 +1,6 @@
 Developer.
 
-Currently: Deciding on the next challenge.
+Currently: Attempting to learn Japanese.
 
 Working for [DevicePilot](https://www.devicepilot.com)
 
