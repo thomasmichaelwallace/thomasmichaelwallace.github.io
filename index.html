@@ -37,15 +37,16 @@
         margin: 0px;
       }
 
-      .left {
-        float: left;
+      .container {
+        display: flex;
+        flex-direction: row;
+        column-gap: 25px;
+        flex-wrap: wrap;
+        row-gap: 25px; 
       }
-      .right {
-        float: right;
-      }
-      .clear-left {
-        padding-top: 1px;
-        clear: left;
+      
+      .top-text {
+         max-width: 625px;
       }
 
       img.oliver {
@@ -78,32 +79,30 @@
   </head>
   <body>
     <!-- content block -->
-<div class="left">
-  <h1>thomas michael wallace</h1>
-  <p>
-  Developer.<br/>
-  Currently: Attempting to learn Japanese and make indie games.<br/>
-  Working for <a href="https://www.devicepilot.com">DevicePilot</a><br/>
-  Making indie games as <a href="https://tomputergames.itch.io/">TomputerGames</a><br/>
-  </p>
+    <div class="container">
+      <div class="top-text">
+        <h1>thomas michael wallace</h1>
+        <p>
+          Developer.<br>
+          Currently: Attempting to learn Japanese and make indie games.<br>
+          Working for <a href="https://www.devicepilot.com">DevicePilot</a><br>
+          Making indie games as <a href="https://tomputergames.itch.io/">TomputerGames</a><br>
+        </p>
+        <h2>talks</h2>
+        <ul>
+          <li>Real World Serverless: <a href="https://www.buzzsprout.com/877747/3757049-16-meta-programming-lambda-functions-with-tom-wallace">#16: Meta-programming Lambda functions with Tom Wallace</a></li>
+          <li>ServerlessDays Belfast 2020: The Serverless Rube Goldburg Machine.</li>
+          <li>ServerlessDays Cardiff 2019: <a href="https://www.youtube.com/watch?v=mYduv751N6g">Metaprogramming in lambda- for bad and for worse.</a></li>
+          <li>ServerlessDays London 2018: <a href="https://www.youtube.com/watch?v=csB40xZ5xPI">We built our own serverless database, and you should too. Probably.</a></li>
+        </ul>
+      </div>
+    <div>
+      <iframe name="acclaim-badge" allowtransparency="true" frameborder="0" id="embedded-badge-0b9f0a7c-1272-445b-b3ab-7238b40aef43" scrolling="no" src="//www.credly.com/embedded_badge/0b9f0a7c-1272-445b-b3ab-7238b40aef43" style="width: 150px; height: 270px;" title="View my verified achievement on Credly."></iframe><script type="text/javascript" async="" src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+    </div>
+    <div>
+      <img class="oliver" src="./assets/img/logo-oliver.png">
+    </div>
 </div>
-<div class="right">
-  <h2>certifications</h2>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0b9f0a7c-1272-445b-b3ab-7238b40aef43" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-</div>
-<div class="right">
-  <img class="oliver" src="./assets/img/logo-oliver.png" />
-</div>
-<div class="clear-left"></div>
-
-<h2>talks</h2>
-
-<ul>
-  <li>Real World Serverless: <a href="https://www.buzzsprout.com/877747/3757049-16-meta-programming-lambda-functions-with-tom-wallace">#16: Meta-programming Lambda functions with Tom Wallace</a></li>
-  <li>ServerlessDays Belfast 2020: The Serverless Rube Goldburg Machine.</li>
-  <li>ServerlessDays Cardiff 2019: <a href="https://www.youtube.com/watch?v=mYduv751N6g">Metaprogramming in lambda- for bad and for worse.</a></li>
-  <li>ServerlessDays London 2018: <a href="https://www.youtube.com/watch?v=csB40xZ5xPI">We built our own serverless database, and you should too. Probably.</a></li>
-</ul>
 
 <h2>games</h2>
 
